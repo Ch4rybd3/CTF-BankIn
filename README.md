@@ -5,7 +5,7 @@
 ![Logo de CashIn](https://via.placeholder.com/150) <!-- Remplacez par le logo de CashIn si disponible -->
 
 **BankIn** est un outil de suivi des dépenses en entreprise, développé par **CashIn**. Il permet aux entreprises de gérer, suivre et analyser leurs dépenses de manière efficace et intuitive. Cet outil est conçu pour simplifier la gestion financière et offrir une visibilité complète sur les flux de trésorerie.
-
+![{97257532-72E3-4609-9C74-BB26993F9211}](https://github.com/user-attachments/assets/5a339284-a6da-4120-b788-e828cc3144a8)
 ---
 
 ## Fonctionnalités
